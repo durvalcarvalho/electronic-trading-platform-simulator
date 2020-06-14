@@ -29,9 +29,17 @@ This system is responsible for simulating the stock exchange environment over a 
 
 This system is responsible for receiving and executing purchase and sale orders based on the matching criteria. These criteria must be decoupled from the system, so that several models can be testes to analyze the variation in transaction cost involved.
 
-## Stock Selection System
+## Stock Selection System (Minimum Valuable Product)
 
 This system will select the assets to be invested based on the strategy defined by the investor. This system can generate different results based on the analysis of the investor profile. Some of the variables that can affect the result are "exposure to volatity", "favorite sector", "black list of companies", "diversification rate".
+
+### Variables:
+- How often will decisions be made?
+- Ignored stocks
+- Compulsory companies
+- Diversification rate
+- Exposure to valatity
+- Favorite sectors
 
 ## Portifolio analysis System
 
