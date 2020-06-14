@@ -13,7 +13,7 @@
 <h1 align="center">
   <br>
     <a href="electronic-trading-platform-simulator.png">
-      <img src="electronic-trading-platform-simulator.png" alt="electronic trading platform simulator diagram" width="200">
+      <img src="electronic-trading-platform-simulator.png" alt="electronic trading platform simulator diagram">
     </a>
   <br>
 </h1>
