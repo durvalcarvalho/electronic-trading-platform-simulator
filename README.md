@@ -6,7 +6,7 @@
 4. [Design and Architecture of a Trading Platform](https://www.vamsitalkstech.com/?p=315)
 5. [Design and Architecture of a Robo-Advisor Platform](https://www.vamsitalkstech.com/?p=2354)
 6. [Order matching system](https://en.wikipedia.org/wiki/Order_matching_system)
-7. 
+7. [Automated Trading System](https://blog.quantinsti.com/automated-trading-system/)
 
 # Primitive diagram
 
