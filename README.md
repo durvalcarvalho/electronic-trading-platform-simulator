@@ -7,3 +7,13 @@
 5. [Design and Architecture of a Robo-Advisor Platform](https://www.vamsitalkstech.com/?p=2354)
 6. [Order matching system](https://en.wikipedia.org/wiki/Order_matching_system)
 7. 
+
+
+
+<h1 align="center">
+  <br>
+    <a href="electronic-trading-platform-simulator.png">
+      <img src="electronic-trading-platform-simulator.png" alt="electronic trading platform simulator diagram" width="200">
+    </a>
+  <br>
+</h1>
