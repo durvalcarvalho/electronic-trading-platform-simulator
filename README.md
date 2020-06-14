@@ -8,6 +8,7 @@
 6. [Order matching system](https://en.wikipedia.org/wiki/Order_matching_system)
 7. [Automated Trading System](https://blog.quantinsti.com/automated-trading-system/)
 8. [Complex Event Processing](https://hazelcast.com/glossary/complex-event-processing)
+9. [Automated Trading Order Management System](https://blog.quantinsti.com/automated-trading-order-management-system/)
 
 # Primitive diagram
 
