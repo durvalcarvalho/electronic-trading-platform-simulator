@@ -8,7 +8,7 @@
 6. [Order matching system](https://en.wikipedia.org/wiki/Order_matching_system)
 7. 
 
-
+# Primitive diagram
 
 <h1 align="center">
   <br>
@@ -17,3 +17,22 @@
     </a>
   <br>
 </h1>
+
+
+# Subsystems
+
+## Stock Exchange time machine
+
+This system is responsible for simulating the stock exchange environment over a period of time. The simulation is based on the purchase and sales orders at a given time. Orders must be based on historical data.
+
+## Order Matching system
+
+This system is responsible for receiving and executing purchase and sale orders based on the matching criteria. These criteria must be decoupled from the system, so that several models can be testes to analyze the variation in transaction cost involved.
+
+## Stock Selection System
+
+This system will select the assets to be invested based on the strategy defined by the investor. This system can generate different results based on the analysis of the investor profile. Some of the variables that can affect the result are "exposure to volatity", "favorite sector", "black list of companies", "diversification rate".
+
+## Portifolio analysis System
+
+This system will measure the investment strategy. This analysis can evaluate several criteria in addition to the financial return. The strategy "pontuation" is related to whether the results obtained met the criteria defined in the investment strategy. It is necessary to assess wheter the profitability is within the expected, the portifolio's volatility was bellow the defined, and others criterias...
